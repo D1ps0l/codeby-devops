@@ -1,2 +1,2 @@
 # codeby-devops
-codeby salam, ostalnim soboleznuy
+codeby salam, ostalnim soboleznyu
